@@ -7,6 +7,4 @@
 <img height="50" src="https://skillicons.dev/icons?i=ruby,rails,python,javascript,html,css,postgresql,docker" />
 
 ## Stats
-[![wakatime](https://wakatime.com/badge/user/77b6e513-896a-427f-8e46-9a67cbd76f56.svg)](https://wakatime.com/@77b6e513-896a-427f-8e46-9a67cbd76f56)
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mariafcatani&=last_7_days"/>
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mariafcatani)](https://github.com/anuraghazra/github-readme-stats)
