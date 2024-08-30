@@ -9,5 +9,5 @@
 ### Stats
 [![wakatime](https://wakatime.com/badge/user/77b6e513-896a-427f-8e46-9a67cbd76f56.svg)](https://wakatime.com/@77b6e513-896a-427f-8e46-9a67cbd76f56)
 
-| <img height="200em" src="https://github-readme-stats-maria-fernanda-catanis-projects.vercel.app/api?username=mariafcatani&show_icons=true&include_all_commits=true&count_private=true"/> | <img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=mariafcatani"/> |
+| <img height="200em" src="https://github-readme-stats-maria-fernanda-catanis-projects.vercel.app/api?username=mariafcatani&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/> | <img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=mariafcatani&hide_border=true&bg_color=0d1117"/> |
 | ------------- | ------------- |  
