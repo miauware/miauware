@@ -33,12 +33,12 @@
         <table>
           <tr>
             <td>
-              <img src="https://github-readme-stats.vercel.app/api?username=mariafcatani&count_private=true&show_icons=true&hide_border=true&bg_color=0D1117&text_color=d6d6d6&title_color=c10707&icon_color=c10707"/>
+              <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mariafcatani&count_private=true&show_icons=true&hide_border=true&bg_color=0D1117&text_color=d6d6d6&title_color=c10707&icon_color=c10707"/>
             </td>
           </tr>
           <tr>
             <td>
-              <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mariafcatani&hide_border=true&bg_color=0d1117&title_color=c10707&text_color=FFF"/>
+              <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=mariafcatani&hide_border=true&bg_color=0d1117&title_color=c10707&text_color=FFF"/>
             </td>
           </tr>
         </table>
