@@ -29,16 +29,15 @@
     <td>
       <samp>
         <br>
-        stats:<br>
         <table>
           <tr>
             <td>
-              <img height="140em" src="https://github-readme-stats.vercel.app/api?username=mariafcatani&count_private=true&show_icons=true&hide_border=true&bg_color=0D1117&text_color=fff&title_color=c10707&icon_color=c10707"/>
+              <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mariafcatani&count_private=true&show_icons=true&hide_border=true&bg_color=0D1117&text_color=fff&title_color=c10707&icon_color=c10707"/>
             </td>
           </tr>
           <tr>
             <td>
-              <img height="140em" src="https://github-readme-stats.vercel.app/api/wakatime?username=mariafcatani&hide_border=true&bg_color=0d1117&title_color=c10707&text_color=fff"/>
+              <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=mariafcatani&hide_border=true&bg_color=0d1117&title_color=c10707&text_color=fff"/>
             </td>
           </tr>
         </table>
