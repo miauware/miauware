@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td style="vertical-align: top; width: 50%;">
+    <td>
       <samp>
         hi there! :wave:<br>
         <br>
@@ -26,7 +26,7 @@
         <img src="https://img.shields.io/badge/-javascript-0D1117?style=flat-square&logo=javascript&logoColor=c10707" alt="CSS"/>
       </samp>
     </td>
-    <td style="vertical-align: top; width: 50%;">
+    <td>
       <samp>
         <br>
         stats:<br>
