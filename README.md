@@ -17,9 +17,9 @@
         <img src="https://img.shields.io/badge/-delphi-0D1117?style=flat-square&logo=delphi&logoColor=1e56a0"/>
         <img src="https://img.shields.io/badge/-python-0D1117?style=flat-square&logo=python&logoColor=1e56a0"/>
     </td>
-    <td>
+    <td align="center">
       <img height="150em" src="https://github-readme-stats.vercel.app/api?username=miauware&count_private=true&show_icons=true&hide_border=true&bg_color=0D1117&text_color=fff&title_color=1e56a0&icon_color=1e56a0"/><br>
-      <img height="130em" src="https://github-readme-stats.vercel.app/api/wakatime?username=mariafcatani&hide_border=true&bg_color=0d1117&title_color=1e56a0&text_color=fff"/>
+      <img height="130em" src="https://github-readme-stats.vercel.app/api/wakatime?username=miauware&hide_border=true&bg_color=0d1117&title_color=1e56a0&text_color=fff"/>
     </td>
   </tr>
 </table>
