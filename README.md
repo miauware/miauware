@@ -19,7 +19,7 @@
     </td>
     <td align="center">
       <img height="150em" src="https://github-readme-stats.vercel.app/api?username=miauware&count_private=true&show_icons=true&hide_border=true&bg_color=0D1117&text_color=fff&title_color=1e56a0&icon_color=1e56a0"/><br>
-      <img height="130em" src="https://github-readme-stats.vercel.app/api/wakatime?username=miauware&hide_border=true&bg_color=0d1117&title_color=1e56a0&text_color=fff"/>
+      <img height="130em" src="https://github-readme-stats.vercel.app/api/wakatime?username=miauware&hide_border=true&bg_color=0d1117&title_color=1e56a0&text_color=fff&hide=yaml,text,git%20config,markdown,other&range=last_7_days""/>
     </td>
   </tr>
 </table>
