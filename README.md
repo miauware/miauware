@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=16&duration=2500&pause=1000&color=95C5C9&width=75&height=25&lines=Welcome!"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=15&duration=1&pause=1&color=95C5C9&repeat=false&width=75&height=25&lines=Welcome!"/>
       <samp>
         <br>
         about me:<br>
