@@ -21,7 +21,7 @@
         <img src="https://img.shields.io/badge/-python-0D1117?style=flat-square&logo=python&logoColor=95c5c9"/>
     </td>
     <td align="center">
-      <img height="150em" src="https://github-readme-stats-git-master-maria-fernanda-catanis-projects.vercel.app/api?username=miauware&count_private=true&show_icons=true&hide_border=true&bg_color=0D1117&text_color=fff&title_color=95c5c9&icon_color=95c5c9"/><br>
+      <img height="140em" src="https://github-readme-stats-git-master-maria-fernanda-catanis-projects.vercel.app/api?username=miauware&count_private=true&show_icons=true&hide_border=true&bg_color=0D1117&text_color=fff&title_color=95c5c9&icon_color=95c5c9"/><br>
       <img height="130em" src="https://github-readme-stats.vercel.app/api/wakatime?username=miauware&hide_border=true&bg_color=0d1117&title_color=95c5c9&text_color=fff&hide=yaml,text,git%20config,markdown,other&range=last_7_days""/>
     </td>
   </tr>
