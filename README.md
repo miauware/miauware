@@ -3,14 +3,14 @@
     <td>
       <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=15&duration=1&pause=1&color=95C5C9&repeat=false&width=70&height=25&lines=Welcome!"/><br>
       <samp>
-        <br>about me:<br>
+        about me:<br>
         <ul>
           <li>she/her, brazilian, pt-br + eng</li>
           <li>graduating in analysis & systems development</li>
           <li>working as a back-end developer</li>
           <li>studying python and cybersecurity</li>
         </ul>
-        <br>contact:<br>
+        contact:<br>
         <a href="https://www.linkedin.com/in/mariafcatani/"><img src="https://img.shields.io/badge/-linkedin-0D1117?style=flat-square&logo=linkedin&logoColor=95c5c9"></a>
         <a href="mailto:mariafernandacatani@gmail.com"><img src="https://img.shields.io/badge/-gmail-0D1117?style=flat-square&logo=gmail&logoColor=95c5c9"></a><br>
         <br>langs and tools:<br>
