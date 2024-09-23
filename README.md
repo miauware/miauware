@@ -10,7 +10,7 @@
           <li>working as a back-end developer</li>
           <li>studying python and cybersecurity</li>
         </ul>
-        contact:<br>
+        <br>contact:<br>
         <a href="https://www.linkedin.com/in/mariafcatani/"><img src="https://img.shields.io/badge/-linkedin-0D1117?style=flat-square&logo=linkedin&logoColor=95c5c9"></a>
         <a href="mailto:mariafernandacatani@gmail.com"><img src="https://img.shields.io/badge/-gmail-0D1117?style=flat-square&logo=gmail&logoColor=95c5c9"></a><br>
         <br>langs and tools:<br>
