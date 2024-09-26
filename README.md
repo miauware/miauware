@@ -29,7 +29,7 @@
         </tr>
         <tr>
           <td>
-            <a href="https://wakatime.com/@miauware"><img height="115em" src="https://github-readme-stats.vercel.app/api/wakatime?username=miauware&hide_border=true&bg_color=0d1117&title_color=95c5c9&text_color=fff&hide=yaml,text,git%20config,markdown,other&range=last_7_days"/></a>
+            <a href="https://wakatime.com/@miauware"><img height="115em" src="https://github-readme-stats.vercel.app/api/wakatime?username=miauware&hide_border=true&bg_color=0d1117&title_color=95c5c9&text_color=fff&hide=yaml,text,git,git%20config,markdown,other&range=last_7_days"/></a>
           </td>
         </tr>
       </table>
